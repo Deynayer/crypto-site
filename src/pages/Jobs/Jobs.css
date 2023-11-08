@@ -1,0 +1,126 @@
+.JH {
+    color: white;
+}
+
+.J_intro  h1 {
+    font-family: var(--font-base);
+    color: white(171, 222, 31);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 46px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding-top: 80px;
+}
+
+.J_intro p {
+    display: block;
+    margin: auto;
+    color: white;
+    padding-left: 745px;
+    padding-bottom: 40px;
+}
+
+.J_button {
+    background-color: rgb(171, 222, 31);
+    color: var(--color-black);
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    line-height: 28px;
+    font-size: 16px;
+    padding: 1rem 2rem;
+    border-radius: 1px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
+
+.J_1pbg {
+    font-family: var(--font-base);
+    color: white(171, 222, 31);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 25px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding-top: 80px;
+    background-color: var(--color-black);
+    padding-bottom: 30px;
+}
+
+.J_tables {
+    display: flex;
+    padding: 2rem 0.5rem 2rem 2rem;
+}
+
+.J_tables h2 {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+
+.app__video {
+    height: 100vh;
+    position: relative;
+}
+
+.app__video video {
+    width: 90%;
+    height: 100%;
+    object-fit: cover;
+    padding-left: 90px;
+    padding-bottom: 40px;
+}
+
+.app__video-overlay {
+    position: absolute;
+    inset: 0;
+}
+
+.app__video-overlay_circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid var(--color-golden);
+    cursor: pointer;
+}
+
+.J_r {
+    font-family: var(--font-base);
+    color: white(171, 222, 31);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 15px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding-top: 80px;
+    background-color: var(--color-black);
+    padding-bottom: 30px;
+}
+
+.J_Wicons {
+    display: flex;
+    padding: 2rem 0.5rem 2rem 2rem;  
+    background-color: var(--color-black); 
+}
+
+.J_Wicons h3 {
+    padding-right: 30px;
+    padding-left: 30px;
+    color: var(--color-golden);
+}
+
+.J_last p {
+    padding-left: 60px;
+    padding-bottom: 40px;
+    background-color: var(--color-black);
+}

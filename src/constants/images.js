@@ -21,6 +21,8 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import ABU from '../assets/ABU.png'
 import continent from '../assets/continents.png'
 import arrow from '../assets/arrow.png'
+import chainlink from '../assets/chainlink.png'
+import centrifuge from '../assets/centrifuge.png'
 
 export default {
   bg,
@@ -46,4 +48,6 @@ export default {
   ABU,
   continent,
   arrow,
+  chainlink,
+  centrifuge,
 };
