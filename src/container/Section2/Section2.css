@@ -1,0 +1,57 @@
+.Section2H {
+    display: flex;
+    color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--color-black);
+}
+
+
+.SectionH h3 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 42px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+}
+
+.SectionH img {
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.S2button {
+    width: 160px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    padding-top: 6px;
+    border-style: outset;
+    border-radius: 7px;
+}
+
+/*
+.Section2icons {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 0px;
+}
+
+SectionH {
+    flex: 1;
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-right: 5rem;
+    align-items: left;
+    color: white;
+} 
+
+
+
+*/

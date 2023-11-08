@@ -1,0 +1,45 @@
+.app_s1header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--color-black);
+    
+}
+
+.app_s1struct {
+    align-items: center;
+    color: white;
+}
+
+.app_s1struct img {
+    display: flex;
+    align-self: center;
+    margin-left: 100px;
+    display: flexbox; width: 110px;
+    padding: 1rem 1rem 2rem ;
+}
+
+
+.app_s1struct h1 {
+   padding: 1rem 8rem;
+   font-size: 80px;
+   padding-bottom: 80px;
+   align-self: auto;
+}
+
+.icons {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 0px;
+}
+
+.icons p {
+    padding: 3rem;
+    margin-right: 90px;
+}
+
+.bigimg {
+    width: 20px;
+    display: flex;
+    align-items: center;
+}

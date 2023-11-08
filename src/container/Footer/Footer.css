@@ -1,0 +1,22 @@
+.footer {
+    background-color: var(--color-darkgray);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+  }
+  
+  .SocialMedia svg {
+    color: white;
+    margin: 20px;
+    font-size: 45px;
+    padding-top: 20px;
+    cursor: pointer;
+  }
+  
+  .footer p {
+    color: white;
+    padding-top: 15px;
+    padding-left: 50px;
+  }
